@@ -14,7 +14,7 @@
     "lint": "nuxt typecheck"
   },
   "dependencies": {
-    "@primeuix/themes": "^1.0.3",
+    "@primevue/themes": "4.3.3",
     "@primevue/forms": "^4.3.3",
     "@vueuse/core": "^13.1.0",
     "dotenv": "^16.5.0",
